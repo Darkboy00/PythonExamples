@@ -1,2 +1,2 @@
 # PythonExamples
-100 examples with Python
+100 examples with Python.
